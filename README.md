@@ -1,2 +1,2 @@
 # Robotics Notes
-A collection of brief notes on different subjects important in robotics
+A collection of brief notes on different important subjects in robotics
